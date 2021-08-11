@@ -1,0 +1,5 @@
+/torchtest/build/CMakeFiles/rebuild_cache.dir
+/torchtest/build/CMakeFiles/edit_cache.dir
+/torchtest/build/CMakeFiles/package_source.dir
+/torchtest/build/CMakeFiles/package.dir
+/torchtest/build/CMakeFiles/torchtest-app.dir
